@@ -7,6 +7,7 @@ Overview
 The script esrgan_super_resolution.py enhances the resolution of images using ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks).
 
 Usage
+
 Requirements:
 
 Python 3.x
@@ -20,6 +21,7 @@ Installation:
 
 Clone this repository.
 Install the required libraries using pip install -r requirements.txt.
+
 Steps:
 
 Place the image you want to enhance in the specified IMAGE_PATH.
@@ -37,11 +39,13 @@ OpenCV
 Installation:
 
 Ensure OpenCV is installed (pip install opencv-python).
+
 Steps:
 
 Provide the image you want to analyze.
 Run object_detection.py.
 View the detected objects with bounding boxes and labels.
+
 Use Cases:
 
 Image Enhancement: This codebase is valuable for scenarios where image quality improvement or enhancement is necessary. For instance, it can be utilized in photography applications to upscale images without losing quality or in medical imaging for improving the clarity of scans.
